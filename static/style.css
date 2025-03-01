@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+svg {
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+
+.heatmap-nav{
+    margin-bottom: 20px;
+}
