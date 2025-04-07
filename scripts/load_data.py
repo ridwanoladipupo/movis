@@ -42,4 +42,3 @@ df.to_csv("./data/processed_all_activity_data.csv", index=False)
 # print(df.head())
 # print(df.columns)
 # print(df.describe())
-
